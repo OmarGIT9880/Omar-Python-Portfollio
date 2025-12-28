@@ -1,61 +1,43 @@
-Python Projects Portfolio
+# Python Projects Portfolio
 
-A collection of Python projects focused on GIS, spatial analysis, and algorithmic problem solving. The projects emphasize spatial reasoning and logic over UI design.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+A collection of Python projects demonstrating spatial analysis, GIS automation, and algorithmic problem-solving. These projects showcase technical implementation and spatial reasoning with a focus on functionality over visual design.
 
-Repository Structure
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+##  Repository Structure
 
-Algorithms:
+### Algorithms
+- **KD-tree implementation** for efficient spatial search operations
+- **Spatial indexing** using recursive data structures
+- **Geographic calculations** including centroid determination and area computation
 
-KD-tree implementation for spatial search
+### GIS_Python
+- **Proportional symbol mapping** for thematic cartography
+- **Accessibility analysis** workflows for spatial decision-making
+- **Geospatial data handling** with GeoJSON and shapefiles
+- **Hammer equal-area projection** implementation for global mapping
 
-Spatial indexing and recursion exercises
+### Arcpy
+- **GIS automation scripts** using ArcPy for spatial data processing and workflow optimization
 
-Geographic centroid and area calculations
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-GIS_Python:
+### Practice
+- **Blowing figures visualization** – interactive particle simulation
+- **Console-based Wordle** – text-based word game implementation
 
-Proportional point symbol mapping
+##  Technologies
 
-Accessibility analysis workflows
+- Python 3.x
+- Jupyter Notebook / Google Colab
+- Matplotlib
+- ArcPy
+- Custom spatial algorithms and geometry libraries
 
-GeoJSON and shapefile handling
+##  Setup Notes
 
-Hammer equal-area map projection
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Arcpy:
+Some notebooks were developed in Google Colab. When running locally, you may need to:
+- Adjust file paths to match your directory structure
+- Install required dependencies: `pip install matplotlib arcpy`
+- Ensure ArcGIS Pro is installed for ArcPy functionality
 
-ArcPy scripts for GIS automation and spatial data processing
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+##  About
 
-Practice:
-
-Blowing figures visualization simulation
-
-Console-based Wordle game
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Tools & Libraries:
-
-Python
-
-Jupyter Notebook / Google Colab
-
-Matplotlib
-
-ArcPy
-
-Custom geometry and algorithmic logic
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Notes:
-
-Some notebooks were created in Google Colab
-
-File paths may need adjustment for local execution
-
-👤 About Me
-
-GIS major with a Computer Science & Engineering minor at The Ohio State University. Interested in GIS algorithms, spatial data processing, and Python-based analysis.
+GIS student at The Ohio State University with a Computer Science & Engineering minor. Focused on spatial algorithms, geospatial data processing, and Python-based analysis for real-world applications.
 
