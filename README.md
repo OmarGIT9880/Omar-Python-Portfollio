@@ -1,47 +1,48 @@
+Python Projects Portfolio
 
----
+A collection of Python projects focused on GIS, spatial analysis, and algorithmic problem solving. Projects emphasize spatial reasoning and logic over UI design.
 
-## Featured Projects
+Contents
 
-### GIS & Spatial Python
-- **Point Symbol Map** – Generates proportional point symbol maps from polygon data
-- **Hammer Projection** – Implements an equal-area world map projection from scratch
-- **GeoJSON & Shapefile Explorer** – Interactive inspection of polygon and multipolygon data
-- **Accessibility Analysis** – Notebook-based spatial analysis workflow
+Algorithms
 
-### Algorithms & Data Structures
-- **KD-Tree Implementation** – Builds and queries a spatial KD-tree
-- **Spatial Indexing Exercises** – Practice with indexing logic and search efficiency
-- **Recursive Functions** – Recursion applied to algorithmic problems
+KD-Tree implementation for spatial search
 
-### Visualization
-- **Blowing Figures Simulation** – Visual simulation of points moving under wind forces
+Spatial indexing and recursion exercises
 
-### Practice
-- **Wordle Game** – Console-based word game using validation and control flow
+Geographic centroid and area calculations
 
----
+GIS_Python
 
-## Tools & Libraries
+Proportional point symbol mapping
 
-- Python
-- Matplotlib
-- Jupyter / Google Colab
-- Custom geometry and spatial classes
-- Math and algorithmic logic
+Accessibility analysis workflows
 
----
+GeoJSON and shapefile handling
 
-## Notes
+Hammer equal-area map projection
 
-- Some notebooks were created in Google Colab
-- File paths may need adjustment for local execution
-- Projects focus on logic and spatial reasoning over UI polish
+Arcpy
 
----
+ArcPy scripts for GIS automation and spatial data processing
 
-## About Me
+Practice
 
-GIS major with a Computer Science & Engineering minor at The Ohio State University.
-Interested in GIS algorithms, spatial data processing, and Python-based analysis.
+Blowing figures visualization simulation
+
+Console-based Wordle game
+
+🛠 Tools
+
+Python · Jupyter / Google Colab · Matplotlib · ArcPy
+Custom geometry, math, and algorithmic logic
+
+Notes
+
+Some notebooks were created in Google Colab.
+File paths may need adjustment for local runs.
+
+About Me
+
+GIS major with a Computer Science & Engineering minor at The Ohio State University, focused on GIS algorithms, spatial data processing, and Python-based analysis.
 
