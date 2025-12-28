@@ -1,12 +1,12 @@
 Python Projects Portfolio
 
-A collection of Python projects focused on GIS, spatial analysis, and algorithmic problem solving. Projects emphasize spatial reasoning and logic over UI design.
+A collection of Python projects focused on GIS, spatial analysis, and algorithmic problem solving. The projects emphasize spatial reasoning and logic over UI design.
 
-Contents
+📁 Repository Structure
 
 Algorithms
 
-KD-Tree implementation for spatial search
+KD-tree implementation for spatial search
 
 Spatial indexing and recursion exercises
 
@@ -32,17 +32,25 @@ Blowing figures visualization simulation
 
 Console-based Wordle game
 
-🛠 Tools
+🛠 Tools & Libraries
 
-Python · Jupyter / Google Colab · Matplotlib · ArcPy
-Custom geometry, math, and algorithmic logic
+Python
 
-Notes
+Jupyter Notebook / Google Colab
 
-Some notebooks were created in Google Colab.
-File paths may need adjustment for local runs.
+Matplotlib
 
-About Me
+ArcPy
 
-GIS major with a Computer Science & Engineering minor at The Ohio State University, focused on GIS algorithms, spatial data processing, and Python-based analysis.
+Custom geometry and algorithmic logic
+
+ℹ️ Notes
+
+Some notebooks were created in Google Colab
+
+File paths may need adjustment for local execution
+
+👤 About Me
+
+GIS major with a Computer Science & Engineering minor at The Ohio State University. Interested in GIS algorithms, spatial data processing, and Python-based analysis.
 
